@@ -77,5 +77,5 @@ Each algorithm includes one or more of the following metrics:
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/artificial-intelligence-algorithms.git
+git clone https://github.com/your-Chavanasmitagorakh/artificial-intelligence-algorithms.git
 cd artificial-intelligence-algorithms
