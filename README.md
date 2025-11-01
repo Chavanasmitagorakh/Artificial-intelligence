@@ -8,7 +8,6 @@ It’s designed for both beginners learning AI/Deep Learning and intermediate pr
 📌 What’s Included?
 
 This repository currently includes:
-
 Algorithm	Type	Status	Notebook	Visualization
 🧠 Artificial Neural Network (ANN)	Supervised	✅	✅	✅
 🖼️ Convolutional Neural Network (CNN)	Supervised	✅	✅	✅
@@ -17,15 +16,10 @@ Algorithm	Type	Status	Notebook	Visualization
 All models include: training/testing on real datasets, accuracy evaluation, and visual outputs.
 
 🎯 Goals of This Repository
-
 Help learners understand how deep learning algorithms work under the hood
-
 Implement models from scratch and using high-level libraries like TensorFlow/Keras
-
 Practice with image, text, and tabular datasets
-
 Visualize training processes, predictions, and model architecture
-
 Serve as a boilerplate or reference for AI-based projects
 
 🛠 Algorithms Explained
